@@ -1,4 +1,4 @@
-## AngularJS Learning Outline
+## AngularJS Learning Outline 
 
 - [ ] Introduction to AngularJS
   - [ ] What is AngularJS and its key features
